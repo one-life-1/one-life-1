@@ -33,3 +33,109 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=one-life-1&show_icons=true&locale=en" alt="one-life-1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=one-life-1&" alt="one-life-1" /></p>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CC_Gen</title>
+</head>
+
+<body>
+  <h2>
+    <p>Project name: cc_gen</p>
+  </h2>
+  <h4>
+    <p>Overview:</p>
+  </h4>
+  <p><b>CC_gen </b> is an online digital library of credit card design which enable users to view,
+    download and make use of credit cards samples as a resources in their own project.
+    It's easy to use library where design are displayed in a gallery format and categorised based on certain
+    features. Users are able to sign up with unique username, create, personalise, manage, modify card
+    design and save progress without losing their work of data.</p>
+  <p>Among other use cases, this application is designed to give designers and developers access to resources to
+    create web apps with credit card payment featuressuch as online payment applications, e-commerce stores, e.t.c
+  </p>
+  <P>Here is a link to our Github repositroy </P>
+  <link rel="stylesheet" href="">
+
+  <p><b>Features</b></p>
+  <p>Here is a list of the features requirements:</p>
+  <p><b>User: Unauthenticated</b></p>
+  <p>Visit the platform to view basic information about the platform</p>
+  <p>View and interact with the documentation</p>
+  <p>Register to view more details</p>
+  <P>No access to use until registered</P>
+  <p>Able to view but can't download from the library</p>
+
+  <p><b>User:Aunthenticated</b></p>
+  <p>Full access to the platform</p>
+  <p>Users can download credit card code sample</p>
+  <P>users see usage example</P>
+  <p>Users can interact with the documentation</p>
+  <p>Users can comment under a design, react and share on social media and </p>
+  <p>Downloaded cc_design should come with all files (hence, download shouldbe a compressed format)</p>
+  <P>Allow user save data and come back to download</P>
+
+  <p><b>Design & Development</b></p>
+  <p>The development of our cc_gen application is in three phases</p>
+  <p>The UI design, the frontend development, and the backend development</p>
+
+  <p><b>The Design</b></p>
+  <p>The following tools were used:</p>
+  <ul>
+    <li>
+      Pencil
+    </li>
+    <li>
+      Figma
+    </li>
+    <li>FigJam</li>
+    <li>Google forms</li>
+  </ul>
+  <p>The project was subject to industry standard design stages which are</p>
+  <ul>
+    <li>
+      Empothise
+    </li>
+    <li> Define</li>
+    <li>Ideate</li>
+    <li>Prototype</li>
+    <li>Test</li>
+  </ul>
+  <p>Here are links to the design files</p>
+  <link rel="stylesheet" href="">
+  <link rel="stylesheet" href="">
+  <link rel="stylesheet" href="">
+  <link rel="stylesheet" href="">
+
+  <p><b>The Frontend</b></p>
+  <p>The following tools were used</p>
+  <ul>
+    <li>React - A JavaScript library for easy addition of the funtionalities and building user interfaces</li>
+    <li>Tailwind CSS - for styling</li>
+    <li>Flexbox</li>
+    <li>React Router - for navigation to different sections of our web pages</li>
+    <li>Fonts Awesome - for icons </li>
+  </ul>
+  <p>We are also implementing the desktop first design, as we believe most people who would want to use the
+    CC_Gen library would be accessing it from a desktop or laptop </p>
+  <p><b>The Backend</b></p>
+  <p>The Django framework is used to create and operate CC_Gen. It is a Python-based web framework that uses
+    the model-views-template (or MVT) architectural design pattern.
+  </p>
+  <P>
+    Although it's not necessary to be familiar with the Django framework to use this web application, it might
+    be a good idea if you want to modify the way rhe back-office functions or add new features. You can modify
+    every line of code ad every configuration to suit your requirements.
+  </P>
+  <p><b>Database</b></p>
+
+</body>
+
+</html>
